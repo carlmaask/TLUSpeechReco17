@@ -1,0 +1,64 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA NVS 5200M (ID=0xdfc)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\carl.maask\Desktop\TLUSpeechReco17\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 40Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.852797 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2f58 -> priority: 1 
+  Thread -> id: 2258 -> priority: 1 
+  Thread -> id: db0 -> priority: 1 
+  Thread -> id: 3bc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.122786 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 0.231147 ms (FindLiveObjects: 0.033190 ms CreateObjectMapping: 0.037141 ms MarkObjects: 0.156074 ms  DeleteObjects: 0.003556 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.631803 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 0.242211 ms (FindLiveObjects: 0.039512 ms CreateObjectMapping: 0.018175 ms MarkObjects: 0.179781 ms  DeleteObjects: 0.003951 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402631 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 0.379319 ms (FindLiveObjects: 0.034770 ms CreateObjectMapping: 0.035956 ms MarkObjects: 0.300294 ms  DeleteObjects: 0.007902 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.703321 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.609281 ms (FindLiveObjects: 0.041092 ms CreateObjectMapping: 0.037931 ms MarkObjects: 0.515242 ms  DeleteObjects: 0.013829 ms)
+
+Warning: PhraseRecognizer.Start() was called when PhraseRecognizer was already running.
+ 
+(Filename:  Line: 294)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521959 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 0.282118 ms (FindLiveObjects: 0.021336 ms CreateObjectMapping: 0.019361 ms MarkObjects: 0.203884 ms  DeleteObjects: 0.037141 ms)
+
